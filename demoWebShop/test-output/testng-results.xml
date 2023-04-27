@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-04-12T04:58:59 PDT" name="Default suite" finished-at="2023-04-12T04:59:20 PDT" duration-ms="21729">
+    <groups>
+    </groups>
+    <test started-at="2023-04-12T04:58:59 PDT" name="Default test" finished-at="2023-04-12T04:59:20 PDT" duration-ms="21729">
+      <class name="com.test.LaptopDetailsPageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.test.LaptopDetailsPageTest@3911c2a7]" started-at="2023-04-12T04:58:59 PDT" name="setUp" finished-at="2023-04-12T04:59:09 PDT" duration-ms="9750" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="enterQtyClickAddToCartTest()[pri:0, instance:com.test.LaptopDetailsPageTest@3911c2a7]" started-at="2023-04-12T04:59:09 PDT" name="enterQtyClickAddToCartTest" finished-at="2023-04-12T04:59:20 PDT" duration-ms="11910" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterQtyClickAddToCartTest -->
+      </class> <!-- com.test.LaptopDetailsPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
